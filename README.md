@@ -1,3 +1,1 @@
-# Raymond Ehlers
-
-Personal website
+# raymondehlers.github.io

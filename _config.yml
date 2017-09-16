@@ -1,1 +1,11 @@
+# Jekyll Configuration
+
+name: Raymond Ehlers
+description: "Personal page"
+
+url: raymondehlers.github.io
+
 theme: jekyll-theme-midnight
+
+# Don't display file extension
+permalink: pretty
