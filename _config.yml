@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Raymond
+middle_name: #
+last_name: Ehlers
+email: raymond.ehlers@cern.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -67,16 +67,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: raymondEhlers # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: 5SoTUvMAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-3897-0876 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -112,7 +112,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-25938BGEH3 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
@@ -283,8 +283,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ehlers]
+  first_name: [Raymond, J.]
 
   style: apa
   locale: en
@@ -370,7 +370,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
