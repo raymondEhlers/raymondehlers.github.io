@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: rehlers_crop.jpg
+  image: rehlers.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lawrence Berkeley National Laboratory B70-R305</p>
