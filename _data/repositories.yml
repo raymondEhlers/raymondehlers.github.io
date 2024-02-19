@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - raymondEhlers
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - raymondEhlers/pachyderm
+  - raymondEhlers/alice-jet-hadron
+  - raymondEhlers/OVERWATCH
+  - jdmulligan/bayesian-inference
