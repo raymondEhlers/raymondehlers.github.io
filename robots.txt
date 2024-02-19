@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://raymondEhlers.github.io/sitemap.xml
+Sitemap: https://www.rehlers.com/sitemap.xml
