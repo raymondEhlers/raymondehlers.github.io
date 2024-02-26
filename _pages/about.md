@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral research at <a href='https://physics.berkeley.edu/'>UC Berkeley</a> + <a href='https://www-nsd.lbl.gov/2021/02/04/relativistic-nuclear-collisions/'>Lawrence Berkeley National Laboratory</a>.
 
 profile:
   align: right
@@ -18,7 +18,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Site still under construction**
+**NOTE: Website currently under construction**
+
+### Hi, I'm Raymond 👋
+
+I'm a scientist studying the forces that hold matter together and the physics of the early universe about 1 microsecond after the big bang via high-energy collisions of nuclei, sometimes described as "little bangs", at the Large Hadron Collider at [CERN in Geneva, Switzerland](https://home.cern/).
+
+More specifically, I'm an experimental physicist with a focus on studying high momentum transfer processes known as jets, with a particular interest in jet substructure.
+We use these jets as calibrated probes to study quantum chromodynamics (QCD) and the quark-gluon plasma (QGP) formed in heavy-ion collisions.
+I experimentally measure jet observables as a member of the [ALICE (A Large Ion Collider Experiment) collaboration](https://alice.cern/),
+as well as the rigorous extraction of fundamental physics parameters via statistical methods (ie. Bayesian Inference) as a member of the [JETSCAPE collaboration](https://jetscape.org/).
 
 <!--
 
