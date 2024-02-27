@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral research at <a href='https://physics.berkeley.edu/'>UC Berkeley</a> + <a href='https://www-nsd.lbl.gov/2021/02/04/relativistic-nuclear-collisions/'>Lawrence Berkeley National Laboratory</a>.
+subtitle: Postdoctoral research at <a href='https://physics.berkeley.edu/'>UC Berkeley</a> + <a href='https://www-nsd.lbl.gov/2021/02/04/relativistic-nuclear-collisions/'>Lawrence Berkeley National Laboratory</a>
 
 profile:
   align: right
@@ -20,8 +20,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 **NOTE: Website currently under construction**
-
-### Hi, I'm Raymond 👋
 
 I'm a scientist studying the forces that hold matter together and the physics of the early universe about 1 microsecond after the big bang via high-energy collisions of nuclei, sometimes described as "little bangs", at the Large Hadron Collider at [CERN in Geneva, Switzerland](https://home.cern/).
 
