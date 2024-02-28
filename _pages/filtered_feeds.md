@@ -7,6 +7,15 @@ description: Feeds filtered according to my own specifications
 
 ## Filtered feeds
 
+{% for post in site.filtered_feeds%}
+
+  <h2>
+    <a href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h2>
+{% endfor %}
+
 ...
 
 <div class="post">
