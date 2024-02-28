@@ -294,7 +294,7 @@ scholar:
   last_name: [Ehlers]
   first_name: [Raymond, J.]
 
-  style: dependent/american-physical-society-et-al
+  style: american-physical-society-et-al
   locale: en
 
   source: /_bibliography/
