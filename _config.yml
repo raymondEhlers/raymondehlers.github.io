@@ -240,6 +240,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-relative-links
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
@@ -342,6 +343,13 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+
+# -----------------------------------------------------------------------------
+# Jekyll relative links
+# -----------------------------------------------------------------------------
+relative_links:
+  enabled: true
+  collections: true
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
