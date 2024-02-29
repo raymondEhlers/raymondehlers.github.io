@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral research at <a href='https://physics.berkeley.edu/'>UC Berkeley</a> + <a href='https://www-nsd.lbl.gov/2021/02/04/relativistic-nuclear-collisions/'>Lawrence Berkeley National Laboratory</a>
+subtitle: Postdoctoral researcher at <a href='https://physics.berkeley.edu/'>UC Berkeley</a> + <a href='https://www-nsd.lbl.gov/2021/02/04/relativistic-nuclear-collisions/'>Lawrence Berkeley National Laboratory</a>
 
 profile:
   align: right
