@@ -18,7 +18,7 @@ Below, I've prepared an exercise to get started, including inline questions to c
 
 To get started,
 
-0. Make sure to [setup your software environment](2024-02-27-minimal-software-setup.md)
+0. Make sure to [setup your software environment]({% post_url 2024-02-27-minimal-software-setup.md %})
 1. Create a new work directory, and create a virtual environment inside of it.
 2. Load the newly created virtualenv
 3. Install the dependencies, pythia8mc and fastjet:
