@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Exploring the small and large # blog_name will be displayed in your blog page
 blog_description: A few thoughts on physics and software
-permalink: /blog/:year/:title/
+permalink: /posts/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -307,9 +307,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+    year: "/posts/:year/"
+    tag: "/posts/tag/:name/"
+    category: "/posts/category/:name/"
 
 #display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 #display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
