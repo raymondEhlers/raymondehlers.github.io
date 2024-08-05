@@ -8,6 +8,11 @@ nav_order: 1
 ---
 
 <!-- _pages/talks.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.secondarybib }} %}
