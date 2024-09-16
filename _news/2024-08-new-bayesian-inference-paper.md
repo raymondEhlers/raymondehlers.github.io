@@ -6,7 +6,7 @@ related_posts: false
 title: New Bayesian inference paper!
 ---
 
-I'm to announce the release of our paper applying Bayesian inference to hadron and jet suppression measurements!
+I'm pleased to announce the release of our paper applying Bayesian inference to hadron and jet suppression measurements! :tada:
 
 [This paper](https://inspirehep.net/literature/2818238) extracts the jet transport coefficient $\hat{q}$, incorporating all available inclusive hadron and jet yield suppression data measured in heavy-ion collisions at RHIC and the LHC.
 We systematically study the dependence of $\hat{q}$ on restricted kinematic and centrality ranges, studying the universality and validity of the underlying theory, and pointing to areas for improvement.

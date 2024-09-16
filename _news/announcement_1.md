@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Soft launch of website :tada:
+Soft launch of website
