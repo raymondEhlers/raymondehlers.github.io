@@ -9,6 +9,8 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 
+For a comprehensive list of my papers, see [InspireHEP](https://inspirehep.net/authors/1249493).
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
