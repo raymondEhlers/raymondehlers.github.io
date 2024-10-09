@@ -22,5 +22,5 @@ I'm a scientist studying the forces that hold matter together and the physics of
 
 More specifically, I'm an experimental physicist with a focus on studying high momentum transfer processes known as jets, with a particular interest in jet substructure.
 We use these jets as calibrated probes to study quantum chromodynamics (QCD) and the quark-gluon plasma (QGP) formed in heavy-ion collisions.
-I experimentally measure jet observables as a member of the [ALICE (A Large Ion Collider Experiment) collaboration](https://alice.cern/),
-as well as the rigorous extraction of fundamental physics parameters via statistical methods (ie. Bayesian Inference) as a member of the [JETSCAPE collaboration](https://jetscape.org/).
+My main research activities include experimentally measuring jet observables as a member of the [ALICE (A Large Ion Collider Experiment) collaboration](https://alice.cern/),
+as well as using these measurements to perform rigorous extractions of fundamental physics parameters via statistical methods (ie. Bayesian inference) as a member of the [JETSCAPE collaboration](https://jetscape.org/).

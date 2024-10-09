@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Soft launch of website
+Launch of website
