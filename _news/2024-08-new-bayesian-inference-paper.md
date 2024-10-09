@@ -3,7 +3,7 @@ layout: post
 date: 2024-08-15 09:00:00-0900
 inline: false
 related_posts: false
-title: New Bayesian inference paper!
+title: New paper applying Bayesian inference to hadron and jet data
 ---
 
 I'm pleased to announce the release of our paper applying Bayesian inference to hadron and jet suppression measurements! :tada:

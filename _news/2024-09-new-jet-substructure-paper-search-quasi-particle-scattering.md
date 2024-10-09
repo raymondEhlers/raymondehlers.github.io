@@ -3,7 +3,7 @@ layout: post
 date: 2024-09-19 09:00:00-0900
 inline: false
 related_posts: false
-title: New jet substructure paper!
+title: New paper searching for Moliere scattering with jet substructure
 ---
 
 I'm pleased to announce the release of our paper measuring jet substructure to search for evidence of quasi-particle scattering in the quark-gluon plasma! :tada:
