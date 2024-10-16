@@ -6,7 +6,7 @@ subtitle: Postdoctoral researcher at <a href='https://physics.berkeley.edu/'>UC 
 
 profile:
   align: right
-  image: rehlers.jpg
+  image: rehlers_web_2024.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lawrence Berkeley National Laboratory B70-R305</p>
