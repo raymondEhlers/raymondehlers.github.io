@@ -58,7 +58,7 @@
       {% endif %}
 
       {%- if entry.collaboration -%}
-        {{- entry.collaboration }} Collaboration,
+        <i>{{- entry.collaboration }} Collaboration</i>,
       {% endif -%}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
