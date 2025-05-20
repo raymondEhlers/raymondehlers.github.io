@@ -18,7 +18,7 @@ Software is a key element of the physics toolbox. Although the code itself is no
 
 # Python
 
-Since last year, `uv` has emerged as _the_ tool to manage python. It's fast and convenient, covering many of the pain points associated with managing python installations. Many excellent resources on using uv are a quick search away, so I'll just present a quick summary.
+Since last year, `uv` has emerged as _the_ tool to manage python (at least until next year :slightly_smiling_face:). It's fast and convenient, covering many of the pain points associated with managing python installations. Many excellent resources on using uv are a quick search away, so I'll just present a quick summary.
 
 The below steps only need to be done once (except step 3, which is done once per project).
 
@@ -75,7 +75,7 @@ The below steps only need to be done once (except step 3, which is done once per
 
    By installing with `uv tool`, `pdm` will be available in your shell.
 
-4. **Create a virtual environment**: We want to ensure that dependencies don't interfere between projects. To quote from [last year](2024-02-27-minimal-software-setup.md):
+4. **Create a virtual environment**: We want to ensure that dependencies don't interfere between projects. To quote from [last year](2024-02-27-minimal-software-setup.md#python):
 
    > Python can be [very useful](https://xkcd.com/353), but it can be tricky to get it [setup well](https://xkcd.com/1987). A quick summary of my usual habits is:
    >
@@ -93,9 +93,9 @@ The below steps only need to be done once (except step 3, which is done once per
 
 # Compiled code
 
-As I noted in [last year's version](<(2024-02-27-minimal-software-setup.md)>), c++ is prevalent in physics, especially for expensive calculations. In practice, python is often used as a "glue language" to connect different packages which are implemented predominately in c, c++, or rust. For example, numpy mainly consistent of high performance functions written in c and fortran, with python wrapped around those functions to make them convenient to work with. There are some mechanisms to make this (somewhat) seamless, but we'll occasionally have to work at a level that breaks that abstraction. Which is to say, we also need a c++ compiler.
+As I noted in [last year's version](2024-02-27-minimal-software-setup.md), c++ is prevalent in physics, especially for expensive calculations. In practice, python is often used as a "glue language" to connect different packages which are implemented predominately in c, c++, or rust. For example, numpy mainly consistent of high performance functions written in c and fortran, with python wrapped around those functions to make them convenient to work with. There are some mechanisms to make this (somewhat) seamless, but we'll occasionally have to work at a level that breaks that abstraction. Which is to say, we also need a c++ compiler.
 
-Setup will depend on your system. I'll cover a few common systems below. I'll rely on you to configure your shell appropriately so that the compiler can be found (should be automatic in most cases).
+Setup will depend on your system. I'll cover a few common systems below. I'll rely on you to configure your shell appropriately so that the compiler can be found (should be automatic in most cases). Note that the compiler must support c++17!
 
 ## macOS
 
