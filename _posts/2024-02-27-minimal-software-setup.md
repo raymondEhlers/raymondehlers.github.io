@@ -8,7 +8,9 @@ categories: physics software
 featured: false
 ---
 
-Physics is very much about investigations of the physics world, utilizing existing theory as well as our best new ideas to try to make sense of what we observe. In order to do any of that, we spend significant time writing code and working with software development tools. Below is an quick overview and summary of what we use, and how you can set it up for yourself.
+**Edit: See the [2025 version](2025-05-16-software-2025-edition.md) for updated resources!**
+
+Physics is very much about investigations of the physical world, utilizing existing theory as well as our best new ideas to try to make sense of what we observe. In order to do any of that, we spend significant time writing code and working with software development tools. Below is an quick overview and summary of what we use, and how you can set it up for yourself.
 
 Analyzing physics data and simulations requires writing code, integrating existing libraries with new algorithms and ideas. In heavy-ion physics, this is usually done with a mix of c++ and python (and sometimes even a bit of fortran :smile:). c++ has been our preferred language, especially when performance is critical, and python has risen in recent years since it allows for rapid development and testing of ideas.
 
