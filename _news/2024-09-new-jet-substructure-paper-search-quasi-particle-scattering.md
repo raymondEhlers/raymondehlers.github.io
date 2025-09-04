@@ -9,7 +9,7 @@ title: New paper searching for Moliere scattering with jet substructure
 I'm pleased to announce the release of our paper measuring jet substructure to search for evidence of quasi-particle scattering in the quark-gluon plasma! :tada:
 
 In [this paper](https://arxiv.org/abs/2409.12837) from the ALICE collaboration, we measure the largest relative transverse momentum splitting $$k_{\text{T,g}}$$, using proton-proton (pp) and lead-lead (Pb--Pb) collision data collected during Run 2 data.
-As partons propagate thorough and interact with the medium, they may rarely interact with quasi-particle excitations in the medium.
+As partons propagate through and interact with the medium, they may rarely interact with quasi-particle excitations in the medium.
 If such interactions occur, they are predicted to enhance the number of large-$$k_{\text{T,g}}$$ splittings in Pb--Pb as compared to pp collisions.
 
 Experimentally, we identify this high relative transverse momentum splitting using grooming algorithms, which preferentially identify hard splittings.
