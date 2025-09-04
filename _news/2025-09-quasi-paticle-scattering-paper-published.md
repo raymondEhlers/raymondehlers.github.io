@@ -8,7 +8,7 @@ title: Search for quasi-particle scattering with jet substructure published in P
 
 I'm super happy to share that my paper searching for evidence of quasi-particle scattering in the quark-gluon plasma (QGP) has been [published in Physical Review Letters](https://doi.org/10.1103/PhysRevLett.135.031901)! (also on [the arXiv](https://arxiv.org/abs/2409.12837)).
 
-Quoting from  [my post announcing the paper going on the arXiv](2024-09-new-jet-substructure-paper-search-quasi-particle-scattering.md),
+Quoting from [my post announcing the paper going on the arXiv](2024-09-new-jet-substructure-paper-search-quasi-particle-scattering.md),
 
 > In this paper from the ALICE collaboration, we measure the largest relative transverse momentum splitting $$k_{\text{T,g}}$$, using proton-proton (pp) and lead-lead (Pb--Pb) collision data collected during Run 2 data.
 > As partons propagate through and interact with the medium, they may rarely interact with quasi-particle excitations in the medium.
