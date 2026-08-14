@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Inquisitive researcher and scientist with interests in AI/ML, statistical methods (Bayesian inference), software, high-performance (scientific) computing, and data analysis.
+I'm an inquisitive researcher and scientist with interests in AI/ML, statistical methods (Bayesian inference), software, high-performance (scientific) computing, and data analysis.
 I'm currently looking for computation/engineering/research scientist roles in AI/ML for science.
 
 Previously, my research studied the forces that hold matter together and the physics of the early universe about 1 microsecond after the big bang via high-energy collisions of nuclei, sometimes described as "little bangs", at the Large Hadron Collider at [CERN in Geneva, Switzerland](https://home.cern/).
