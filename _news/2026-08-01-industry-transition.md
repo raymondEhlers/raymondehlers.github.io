@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-08-01 00:00:00-0000
+date: 2026-08-01 00:00:00-0000
 inline: false
 related_posts: false
 title: Moving to new problems in industry!
